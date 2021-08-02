@@ -1,7 +1,7 @@
 # Project--1_Wikipedia Analysis
  
  ## INTRODUCTION :
-   This analysis consists of using Big Data tools to answer the question about datasets from Wikipedia.
+   This analysis consists of using Big Data tools to answer the question for datasets from Wikipedia.
 There are a series of analysis questions, answered using Hive and MapReduce. 
 Tools used are based on context for each question.
 ## REQUIREMENTS : 
