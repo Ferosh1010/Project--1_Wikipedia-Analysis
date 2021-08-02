@@ -1,4 +1,4 @@
-# Project--1_ikipedia 
+# Project--1_Wikipedia Analysis
  
  ## INTRODUCTION :
    This analysis consists of using Big Data tools to answer the question about datasets from Wikipedia.
